@@ -1,4 +1,10 @@
-﻿using System;
+//Program By Jason Edelson
+//Written in C#
+//C# and ASP.NET Course Item 31
+//Data in excel sheet was imported into SQL Server
+//SQL Server was connected to Visual Studio's and added to project solution using ADO.net Entity Data Model
+
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
